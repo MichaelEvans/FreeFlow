@@ -20,3 +20,11 @@ examples/PhotoGrid/bin/*
 *.iml
 out
 gen
+
+
+# Gradle
+.gradle
+local.properties
+build
+
+.DS_Store
